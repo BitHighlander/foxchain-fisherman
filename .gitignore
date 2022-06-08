@@ -1,0 +1,11 @@
+.yarnrc
+node_modules
+.env*
+.idea
+env_*
+secrets/*
+wallet*
+Wallet*
+.deploy-env
+.DS_Store
+routes/*
